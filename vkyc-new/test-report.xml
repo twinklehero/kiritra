@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="E:\kiritra\webfront\vkyc-new\src\__tests__\App.test.js">
+    <testCase name="renders learn react link" duration="408">
+      <failure message="TestingLibraryElementError: Unable to find an element with the text: /learn react/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible. have acces to this number/email."><![CDATA[TestingLibraryElementError: Unable to find an element with the text: /learn react/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+<body>
+  <div>
+    <div
+      class="App"
+    >
+      <header
+        class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+      >
+        <div
+          class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+        >
+          <button
+            aria-label="menu"
+            class="MuiButtonBase-root MuiIconButton-root makeStyles-menuButton-2 MuiIconButton-colorInherit MuiIconButton-edgeStart"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <h5
+                class="MuiTypography-root MuiTypography-h5"
+              >
+                Bank Logo
+              </h5>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <h5
+            class="MuiTypography-root makeStyles-title-3 MuiTypography-h5"
+          >
+            Bank Name
+          </h5>
+        </div>
+      </header>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-mainContainer-4 MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-5"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Thank you for choosing us to open a loan account! This should not take more than 10 minutes of your time. Please provide some details before we proceed.
+            </h6>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-6"
+          >
+            <div
+              class="MuiFormControl-root makeStyles-inputField-7"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                data-shrink="false"
+                id="demo-simple-select-label"
+              >
+                Title
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  aria-labelledby="demo-simple-select-label demo-simple-select"
+                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+                  id="demo-simple-select"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span>
+                    ​
+                  </span>
+                </div>
+                <input
+                  aria-hidden="true"
+                  class="MuiSelect-nativeInput"
+                  tabindex="-1"
+                  value=""
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-10"
+                  >
+                    <span>
+                      Title
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-inputField-12"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+                data-shrink="false"
+              >
+                First Name
+                <span
+                  aria-hidden="true"
+                  class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+                >
+                   
+                  *
+                </span>
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="given-name"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  required=""
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-10"
+                  >
+                    <span>
+                      First Name
+                       *
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-inputField-12"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+                data-shrink="false"
+              >
+                Last Name
+                <span
+                  aria-hidden="true"
+                  class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+                >
+                   
+                  *
+                </span>
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="family-name"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  required=""
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-10"
+                  >
+                    <span>
+                      Last Name
+                       *
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-inputField-12"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+                data-shrink="false"
+              >
+                Phone Number
+                <span
+                  aria-hidden="true"
+                  class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+                >
+                   
+                  *
+                </span>
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="tel-local"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  required=""
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-10"
+                  >
+                    <span>
+                      Phone Number
+                       *
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-inputField-12"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-required Mui-required"
+                data-shrink="false"
+              >
+                Email ID
+                <span
+                  aria-hidden="true"
+                  class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+                >
+                   
+                  *
+                </span>
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  autocomplete="email"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  required=""
+                  type="email"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-8 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-10"
+                  >
+                    <span>
+                      Email ID
+                       *
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-13"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-14"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-15 MuiButton-containedPrimary"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Send OTP
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiPaper-root MuiAlert-root MuiAlert-standardInfo makeStyles-alert-16 MuiPaper-elevation0"
+              role="alert"
+            >
+              <div
+                class="MuiAlert-icon"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20, 12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10, 10 0 0,0 12,2M11,17H13V11H11V17Z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiAlert-message"
+              >
+                *An OTP will be sent to this number/email. Please ensure that you have acces to this number/email.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+    at Object.getElementError (E:\kiritra\webfront\vkyc-new\node_modules\@testing-library\react\node_modules\@testing-library\dom\dist\config.js:37:19)
+    at E:\kiritra\webfront\vkyc-new\node_modules\@testing-library\react\node_modules\@testing-library\dom\dist\query-helpers.js:90:38
+    at E:\kiritra\webfront\vkyc-new\node_modules\@testing-library\react\node_modules\@testing-library\dom\dist\query-helpers.js:62:17
+    at getByText (E:\kiritra\webfront\vkyc-new\node_modules\@testing-library\react\node_modules\@testing-library\dom\dist\query-helpers.js:111:19)
+    at Object.<anonymous> (E:\kiritra\webfront\vkyc-new\src\__tests__\App.test.js:6:30)
+    at Promise.then.completed (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\utils.js:276:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\utils.js:216:10)
+    at _callCircusTest (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\run.js:212:40)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at _runTest (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\run.js:149:3)
+    at _runTestsForDescribeBlock (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\run.js:63:9)
+    at run (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:176:21)
+    at jestAdapter (E:\kiritra\webfront\vkyc-new\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:109:19)
+    at runTestInternal (E:\kiritra\webfront\vkyc-new\node_modules\jest-runner\build\runTest.js:380:16)
+    at runTest (E:\kiritra\webfront\vkyc-new\node_modules\jest-runner\build\runTest.js:472:34)
+    at Object.worker (E:\kiritra\webfront\vkyc-new\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+</testExecutions>

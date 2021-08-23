@@ -1,0 +1,15 @@
+{
+    "todayDate": "Today's date is: {{date, PP}}",
+        "personalDetails": {
+        "heading":
+            "Thank you for choosing us to open a loan account! This should not take more than 10 minutes of your time. Please provide some details before we proceed.",
+        "titleLabel": "Title",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "phoneNumberLabel": "Phone Number",
+        "emailLabel": "Email ID",
+        "sendOTPLabel": "Send OTP",
+        "caption":
+            "*An OTP will be sent to this number/email. Please ensure that you have acces to this number/email."
+        }
+}

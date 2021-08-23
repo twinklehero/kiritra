@@ -1,0 +1,9 @@
+{
+    "length":"4" ,
+    "question":[
+                    {"0":"what is your name in the aadhaar card"},
+                    {"1":"what is the birth date on your pan card"},
+                    {"2":"what is the pincode in the address of your aadhaar card"},
+                    {"3":"what is your aadhaar number "}
+                ]   
+}
