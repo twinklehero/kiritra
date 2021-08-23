@@ -1,0 +1,22 @@
+1.create a folder for project files.
+2.enter into the current folder (cd filename)
+3.open git bash using right click.
+4.initialize git (git init)
+5.check for git status.
+6.stage all the files(git add .);
+7commit (git commit-m "changes done in statement").
+8.git config --global user.name
+9.git config --global user.email
+
+
+10. ssh-keygen -t ed25519 -C "1rn17cs002@gmail.com" or ssh-keygen -t ed25519 -C "abhi14021999@gmail.com" 
+11.copy key fingerprint and paste into new  ssh key in github  or clip < ~/.ssh/id_ed25519.pub(recommended)
+
+12.ssh-add ~/.ssh/id_ed25519(not necessary)
+13.git remote add origin ssh_link.
+14.check for remote link using 
+    git remote -v
+15.git push origin master.
+
+
+
